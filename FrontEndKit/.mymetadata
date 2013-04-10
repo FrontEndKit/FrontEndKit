@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="FrontEndKit"
+  id="myeclipse.1365586346250"
+  context-root="/FrontEndKit"
+  j2ee-spec="6.0"
+  archive="FrontEndKit.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
